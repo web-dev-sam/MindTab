@@ -9,6 +9,9 @@ _A simple new tab chrome extension with custom bookmarks. 🔖_
 
 &nbsp;
 
+## Why does this exist?
+A new tab should be minimal and look good.
+
 ## How it looks
 
 <img src="https://raw.githubusercontent.com/MindLabor/MindTab/main/images/demo.png?token=GHSAT0AAAAAABJC4H7MYSIR2SXZIKETBGK6YPCJ7ZA" width="600" />

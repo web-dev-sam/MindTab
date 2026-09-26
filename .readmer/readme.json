@@ -25,5 +25,6 @@
         "**Search:** Currently only google support."
       ]
     }
-  ]
+  ],
+  "why": "A new tab should be minimal and look good."
 }
