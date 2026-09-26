@@ -1,0 +1,29 @@
+{
+  "title": "MindTab",
+  "tagline": "A simple new tab chrome extension with custom bookmarks. 🔖",
+  "sections": [
+    {
+      "title": "How it looks",
+      "images": [
+        {
+          "src": "https://raw.githubusercontent.com/MindLabor/MindTab/main/images/demo.png?token=GHSAT0AAAAAABJC4H7MYSIR2SXZIKETBGK6YPCJ7ZA",
+          "width": 600
+        }
+      ]
+    },
+    {
+      "title": "How to develop it",
+      "numbered": [
+        "`npm install`",
+        "`npm start`"
+      ]
+    },
+    {
+      "title": "Features",
+      "bullets": [
+        "**Custom Bookmark Groups:** Open multiple related bookmarks in a new chrome tab group with one click.",
+        "**Search:** Currently only google support."
+      ]
+    }
+  ]
+}
